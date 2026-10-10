@@ -64,16 +64,10 @@ nav a:hover {
     margin: 0 auto 25px;
 }
 
-.hero-image {
-    width: 40%;
-}
-
 .hero-image img {
     width: 280px;
     height: 280px;
-    object-fit: cover;
     border-radius: 50%;
-    margin: auto;
     border: 6px solid #1e3a5f;
 }
 

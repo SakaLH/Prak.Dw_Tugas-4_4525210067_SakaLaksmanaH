@@ -51,6 +51,12 @@ Media query diterapkan pada layar di bawah 768px untuk menyesuaikan navigasi, uk
 
 Proyek ini dibuat untuk mempraktikkan penggunaan HTML dan CSS eksternal, box model, class reusable, Flexbox, serta responsive design.
 
+## Screenshot
+
+![alt text](screenshot/image.png)
+
+![alt text](screenshot/image-1.png)
+
 ---
 
 © 2026 AKASJAOG/AI/ASOY/Arunika Studio
